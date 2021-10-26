@@ -7,22 +7,20 @@
 
 #black {
   background-color: black;
-
 }
 
 #red {
   background-color: red;
-
 }
 
 #blue {
   background-color: blue;
-
 }
 
 #green {
   background-color: green;
 }
+
 .row {
   display: flex;
   flex-direction: row;
@@ -34,5 +32,3 @@
   background-color: white;
   border: 1px solid black;
 }
-
-
